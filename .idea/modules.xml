@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01动态添加Fragment/01动态添加Fragment.iml" filepath="$PROJECT_DIR$/01动态添加Fragment/01动态添加Fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02Fragment模仿微信界面/02Fragment模仿微信界面.iml" filepath="$PROJECT_DIR$/02Fragment模仿微信界面/02Fragment模仿微信界面.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03Fragment之间通信/03Fragment之间通信.iml" filepath="$PROJECT_DIR$/03Fragment之间通信/03Fragment之间通信.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04Android动画/04Android动画.iml" filepath="$PROJECT_DIR$/04Android动画/04Android动画.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05AutocompleteView控件/05AutocompleteView控件.iml" filepath="$PROJECT_DIR$/05AutocompleteView控件/05AutocompleteView控件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hsia06FragmentDemo.iml" filepath="$PROJECT_DIR$/Hsia06FragmentDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03Fragment之间通信/test.iml" filepath="$PROJECT_DIR$/03Fragment之间通信/test.iml" />
+    </modules>
+  </component>
+</project>

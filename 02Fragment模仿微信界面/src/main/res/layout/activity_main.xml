@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.a02fragment.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/ll_replace"
+        android:layout_width="match_parent"
+        android:layout_weight="9"
+        android:layout_height="0dp"></LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:layout_height="0dp">
+
+        <Button
+            android:id="@+id/btn_wechat"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="微信"/>
+        <Button
+            android:id="@+id/btn_contact"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="通讯录"/>
+        <Button
+            android:id="@+id/btn_friend"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="好友"/>
+        <Button
+            android:id="@+id/btn_information"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="个人信息"/>
+    </LinearLayout>
+</LinearLayout>
